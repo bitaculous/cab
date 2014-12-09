@@ -1,7 +1,7 @@
 [Cab]
 =====
 
-**The surface of [LocomotiveCMS], written in [Ember.js].**
+**The cab of [LocomotiveCMS], written in [Ember.js].**
 
 Prerequisites
 -------------
@@ -99,7 +99,7 @@ License
 
 Cab is released under the [MIT License (MIT)], see [LICENSE].
 
-[Cab]: https://github.com/bitaculous/cab "The surface of LocomotiveCMS, written in Ember.js."
+[Cab]: https://github.com/bitaculous/cab "The cab of LocomotiveCMS, written in Ember.js."
 [Ember CLI]: http://www.ember-cli.com "A command line utility for creating ambitious web applications"
 [Ember Inspector for Chrome]: https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi "Ember Inspector for Chrome"
 [Ember Inspector for Firefox]: https://addons.mozilla.org/en-US/firefox/addon/ember-inspector "Ember Inspector for Firefox"
