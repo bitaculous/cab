@@ -37,6 +37,10 @@ Installation
 
 2. Change into the new directory
 
+  ```
+  $ cd cab
+  ```
+
 3. Install dependencies
 
   ```
@@ -69,13 +73,13 @@ Building
 Further Reading / Useful Links
 ------------------------------
 
-* [ember.js](http://emberjs.com)
-* [ember-cli](http://www.ember-cli.com)
+* [Ember.js]
+* [Ember CLI]
 
 ### Development Browser Extensions
 
-* [Ember Inspector for Chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
-* [Ember Inspector for Firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector)
+* [Ember Inspector for Chrome]
+* [Ember Inspector for Firefox]
 
 Bug Reports
 -----------
@@ -96,6 +100,9 @@ License
 Cab is released under the [MIT License (MIT)], see [LICENSE].
 
 [Cab]: https://github.com/bitaculous/cab "The surface of LocomotiveCMS, written in Ember.js."
+[Ember CLI]: http://www.ember-cli.com "A command line utility for creating ambitious web applications"
+[Ember Inspector for Chrome]: https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi "Ember Inspector for Chrome"
+[Ember Inspector for Firefox]: https://addons.mozilla.org/en-US/firefox/addon/ember-inspector "Ember Inspector for Firefox"
 [Ember.js]: http://emberjs.com "A framework for creating ambitious web applications."
 [here]: https://github.com/bitaculous/cab/issues "Github Issues"
 [LICENSE]: https://raw.githubusercontent.com/bitaculous/cab/master/LICENSE "License"
