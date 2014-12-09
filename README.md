@@ -3,6 +3,9 @@
 
 **The cab of [LocomotiveCMS], written in [Ember.js].**
 
+[![Travis CI Status][Travis CI Status]][Travis CI]
+[![Gemnasium Status][Gemnasium Status]][Gemnasium]
+
 Prerequisites
 -------------
 
@@ -104,10 +107,14 @@ Cab is released under the [MIT License (MIT)], see [LICENSE].
 [Ember Inspector for Chrome]: https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi "Ember Inspector for Chrome"
 [Ember Inspector for Firefox]: https://addons.mozilla.org/en-US/firefox/addon/ember-inspector "Ember Inspector for Firefox"
 [Ember.js]: http://emberjs.com "A framework for creating ambitious web applications."
+[Gemnasium]: https://gemnasium.com/bitaculous/cab "Cab at Gemnasium"
+[Gemnasium Status]: https://img.shields.io/gemnasium/bitaculous/cab.svg?style=flat "Gemnasium Status"
 [here]: https://github.com/bitaculous/cab/issues "Github Issues"
 [LICENSE]: https://raw.githubusercontent.com/bitaculous/cab/master/LICENSE "License"
 [LocomotiveCMS]: http://locomotivecms.com "An open source CMS for Rails"
 [MIT License (MIT)]: http://opensource.org/licenses/MIT "The MIT License (MIT)"
 [Node Version Manager]: https://github.com/creationix/nvm "Node Version Manager"
+[Travis CI]: https://travis-ci.org/bitaculous/cab "Cab at Travis CI"
+[Travis CI Status]: https://img.shields.io/travis/bitaculous/cab.svg?style=flat "Travis CI Status"
 [Using npm like Bundler]: http://nebulab.it/blog/using-npm-like-bundler "Using npm like Bundler"
 [Watchman]: https://facebook.github.io/watchman/ "A file watching service"
