@@ -1,1 +1,11 @@
+/.sass-cache/
+/bower_components/
+/connect.lock
+/coverage/*
+/dist/
+/libpeerconnection.log
+/node_modules/
+/npm-debug.log
+/testem.log
+/tmp/
 /cab.sublime-workspace

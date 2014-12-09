@@ -3,6 +3,13 @@
     {
       "name": "cab",
       "path": "./",
+      "folder_exclude_patterns": [
+        ".sass-cache",
+        "bower_components",
+        "dist",
+        "node_modules",
+        "tmp"
+      ],
       "file_exclude_patterns": [
         ".keep"
       ]

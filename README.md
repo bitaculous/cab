@@ -3,10 +3,8 @@
 
 **The surface of [LocomotiveCMS], written in [Ember.js].**
 
-Installation
-------------
-
-### Requirements
+Prerequisites
+-------------
 
 1. Install [Node Version Manager]
 
@@ -27,6 +25,57 @@ Installation
 
   $ port install watchman
   ```
+
+Installation
+------------
+
+1. Clone repository
+
+  ```
+  $ git clone git@github.com:bitaculous/cab.git
+  ```
+
+2. Change into the new directory
+
+3. Install dependencies
+
+  ```
+  $ npm install && bower install
+  ```
+
+Running / Development
+---------------------
+
+1. Run `ember server`
+
+2. Open your browser at [http://localhost:4200](http://localhost:4200)
+
+### Code Generators
+
+Make use of the many generators for code, try `ember help generate` for more details.
+
+Running Tests
+-------------
+
+* `ember test`
+* `ember test --server`
+
+Building
+--------
+
+* `ember build` (development)
+* `ember build --environment production` (production)
+
+Further Reading / Useful Links
+------------------------------
+
+* [ember.js](http://emberjs.com)
+* [ember-cli](http://www.ember-cli.com)
+
+### Development Browser Extensions
+
+* [Ember Inspector for Chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
+* [Ember Inspector for Firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector)
 
 Bug Reports
 -----------
