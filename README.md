@@ -53,5 +53,5 @@ Cab is released under the [MIT License (MIT)], see [LICENSE].
 [LocomotiveCMS]: http://locomotivecms.com "An open source CMS for Rails"
 [MIT License (MIT)]: http://opensource.org/licenses/MIT "The MIT License (MIT)"
 [Node Version Manager]: https://github.com/creationix/nvm "Node Version Manager"
-[Using npm like Bundler]: "http://nebulab.it/blog/using-npm-like-bundler" "Using npm like Bundler"
+[Using npm like Bundler]: http://nebulab.it/blog/using-npm-like-bundler "Using npm like Bundler"
 [Watchman]: https://facebook.github.io/watchman/ "A file watching service"
