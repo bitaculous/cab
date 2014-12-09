@@ -1,0 +1,11 @@
+{
+  "folders": [
+    {
+      "name": "cab",
+      "path": "./",
+      "file_exclude_patterns": [
+        ".keep"
+      ]
+    }
+  ]
+}
