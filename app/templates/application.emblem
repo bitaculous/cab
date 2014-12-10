@@ -1,3 +1,6 @@
-h1#title Welcome to the Cab
+== partial 'application/header'
 
-== outlet
+main.dashboard role='main'
+  h1#title Welcome to the Cab
+
+  == outlet
