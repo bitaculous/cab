@@ -1,7 +1,11 @@
 {
   "name": "locomotivecms-cab",
-  "description": "The cab of LocomotiveCMS, written in Ember.js.",
-  "keywords": ["LocomotiveCMS", "Cab"],
+  "description": "The user interface of LocomotiveCMS, written in Ember.js with Ember CLI.",
+  "keywords": [
+    "Cab",
+    "LocomotiveCMS",
+    "UI"
+  ],
   "homepage": "https://github.com/bitaculous/cab",
   "private": true,
   "version": "0.0.1",
@@ -57,6 +61,7 @@
     "ember-cli-coffeescript": "^0.6.0",
     "ember-cli-content-security-policy": "0.3.0",
     "ember-cli-dependency-checker": "0.0.6",
+    "ember-cli-document-title": "0.0.1",
     "ember-cli-emblem": "0.0.2",
     "ember-cli-esnext": "0.1.1",
     "ember-cli-ic-ajax": "0.1.1",

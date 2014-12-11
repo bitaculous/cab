@@ -104,7 +104,7 @@ License
 
 Cab is released under the [MIT License (MIT)], see [LICENSE].
 
-[Cab]: https://github.com/bitaculous/cab "The user interface of LocomotiveCMS, written in Ember.js."
+[Cab]: https://github.com/bitaculous/cab "The user interface of LocomotiveCMS, written in Ember.js with Ember CLI."
 [Ember CLI]: http://www.ember-cli.com "A command line utility for creating ambitious web applications"
 [Ember Inspector for Chrome]: https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi "Ember Inspector for Chrome"
 [Ember Inspector for Firefox]: https://addons.mozilla.org/en-US/firefox/addon/ember-inspector "Ember Inspector for Firefox"

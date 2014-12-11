@@ -1,5 +1,11 @@
 {
   "name": "locomotivecms-cab",
+  "keywords": [
+    "Cab",
+    "LocomotiveCMS",
+    "UI"
+  ],
+  "private": true,
   "dependencies": {
     "ember": "1.8.1",
     "ember-cli-shims": "stefanpenner/ember-cli-shims#0.0.3",
