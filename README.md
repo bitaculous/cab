@@ -1,7 +1,7 @@
 [Cab]
 =====
 
-**The user interface of [LocomotiveCMS], written in [Ember.js].**
+**The user interface of [LocomotiveCMS], written in [Ember.js] with [Ember CLI].**
 
 [![Travis CI Status][Travis CI Status]][Travis CI]
 [![Gemnasium Status][Gemnasium Status]][Gemnasium]
@@ -20,6 +20,7 @@ Prerequisites
   For more information see [Using npm like Bundler].
 
 3. Install [Watchman]
+  On OS X:
 
   ```
   $ brew install watchman

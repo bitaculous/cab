@@ -11,20 +11,22 @@
 
     {{content-for 'head'}}
 
+    {{content-for 'head-footer'}}
+
     <link rel="stylesheet" href="assets/vendor.css" />
 
     <link rel="stylesheet" href="assets/locomotivecms-cab.css" />
-
-    {{content-for 'head-footer'}}
   </head>
 
   <body>
     {{content-for 'body'}}
 
+    <div id="cab"></div>
+
+    {{content-for 'body-footer'}}
+
     <script src="assets/vendor.js"></script>
 
     <script src="assets/locomotivecms-cab.js"></script>
-
-    {{content-for 'body-footer'}}
   </body>
 </html>
