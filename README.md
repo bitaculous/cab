@@ -21,7 +21,7 @@ Prerequisites
 
 3. Install [Watchman]
 
-  ### On OS X:
+  **On OS X:**
 
   ```
   $ brew install watchman
