@@ -21,6 +21,17 @@ Prerequisites
 
 3. Install [Watchman]
 
+  **Installing from source:**
+
+  ```
+  $ git clone https://github.com/facebook/watchman.git
+  $ cd watchman
+  $ ./autogen.sh
+  $ ./configure
+  $ make
+  $ sudo make install
+  ```
+
   **On OS X:**
 
   ```
@@ -30,6 +41,8 @@ Prerequisites
 
   $ port install watchman
   ```
+
+  For more information see [Watchman Installation].
 
 Installation
 ------------
@@ -120,3 +133,4 @@ Cab is released under the [MIT License (MIT)], see [LICENSE].
 [Travis CI Status]: https://img.shields.io/travis/bitaculous/cab.svg?style=flat "Travis CI Status"
 [Using npm like Bundler]: http://nebulab.it/blog/using-npm-like-bundler "Using npm like Bundler"
 [Watchman]: https://facebook.github.io/watchman/ "A file watching service"
+[Watchman Installation]: https://facebook.github.io/watchman/docs/install.html "Watchman Installation"
