@@ -20,7 +20,8 @@ Prerequisites
   For more information see [Using npm like Bundler].
 
 3. Install [Watchman]
-  On OS X:
+
+  ### On OS X:
 
   ```
   $ brew install watchman
