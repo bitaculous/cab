@@ -6,6 +6,11 @@ module.exports = function(environment) {
     environment: environment,
     baseURL: '/',
     locationType: 'auto',
+
+    contentSecurityPolicy: {
+      // See Content Security Policy Reference (`http://content-security-policy.com`).
+    },
+
     EmberENV: {
       FEATURES: {
         // Here you can enable experimental features on an ember canary build, e.g. `'with-controller': true`.
@@ -14,13 +19,13 @@ module.exports = function(environment) {
 
     APP: {
       // Here you can pass flags or options to your application instance when it is created.
-    }
+    },
   };
 
   if (environment === 'development') {
-    // === Application ===
-
-    // --- Logging ---
+    ENV.contentSecurityPolicy = {
+      'style-src': "'self' 'unsafe-inline'"
+    };
 
     // ENV.APP.LOG_RESOLVER = true;
     ENV.APP.LOG_ACTIVE_GENERATION = true;
@@ -30,17 +35,11 @@ module.exports = function(environment) {
   }
 
   if (environment === 'test') {
-    // === Common ===
-
     // Testem prefers this
     ENV.baseURL = '/';
     ENV.locationType = 'none';
 
-    // === Application ===
-
     ENV.APP.rootElement = '#ember-testing';
-
-    // --- Logging ---
 
     // Keep test console output quieter
     ENV.APP.LOG_ACTIVE_GENERATION = false;
