@@ -84,6 +84,10 @@ $ ember server --proxy http://webby.locoroco.com:8080
 
 Make use of the many generators for code, try `ember help generate` for more details.
 
+```
+$ ember generate <NAME> <OPTIONS>
+```
+
 Running Tests
 -------------
 
