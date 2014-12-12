@@ -72,7 +72,7 @@ Running / Development
 
 2. Open your browser at [http://localhost:4200] or [http://localhost:4200/tests].
 
-### Proxy all AJAX requests to a given address
+### Proxy all AJAX requests to a given address, ideally a running LocomotiveCMS engine
 
 ```
 $ ember server --proxy http://<ADDRESS>:<PORT>
