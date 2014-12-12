@@ -70,7 +70,7 @@ Running / Development
 
 1. Run `ember server`
 
-2. Open your browser at [http://localhost:4200](http://localhost:4200)
+2. Open your browser at [http://localhost:4200] or [http://localhost:4200/tests].
 
 ### Proxy all AJAX requests to a given address
 
@@ -142,17 +142,19 @@ License
 Cab is released under the [MIT License (MIT)], see [LICENSE].
 
 [Cab]: https://github.com/bitaculous/cab "The user interface of LocomotiveCMS, written in Ember.js with Ember CLI."
-[Ember CLI]: http://www.ember-cli.com "A command line utility for creating ambitious web applications"
 [Ember CLI CoffeeScript]: https://github.com/kimroen/ember-cli-coffeescript "CoffeeScript support for Ember CLI"
 [Ember CLI Document Title]: https://github.com/kimroen/ember-cli-document-title "Sane Document Title"
 [Ember CLI Emblem]: https://github.com/jkatsnelson/ember-cli-emblem "Emblem support for Ember CLI"
 [Ember CLI Simple Auth Devise]: https://github.com/simplabs/ember-cli-simple-auth-devise "Ember CLI Simple Auth Devise"
+[Ember CLI]: http://www.ember-cli.com "A command line utility for creating ambitious web applications"
 [Ember Inspector for Chrome]: https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi "Ember Inspector for Chrome"
 [Ember Inspector for Firefox]: https://addons.mozilla.org/en-US/firefox/addon/ember-inspector "Ember Inspector for Firefox"
 [Ember.js]: http://emberjs.com "A framework for creating ambitious web applications."
 [Gemnasium]: https://gemnasium.com/bitaculous/cab "Cab at Gemnasium"
 [Gemnasium Status]: https://img.shields.io/gemnasium/bitaculous/cab.svg?style=flat "Gemnasium Status"
 [here]: https://github.com/bitaculous/cab/issues "Github Issues"
+[http://localhost:4200]: http://localhost:4200
+[http://localhost:4200/tests]: http://localhost:4200/tests
 [LICENSE]: https://raw.githubusercontent.com/bitaculous/cab/master/LICENSE "License"
 [LocomotiveCMS]: http://locomotivecms.com "An open source CMS for Rails"
 [MIT License (MIT)]: http://opensource.org/licenses/MIT "The MIT License (MIT)"
