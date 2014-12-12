@@ -72,6 +72,14 @@ Running / Development
 
 2. Open your browser at [http://localhost:4200](http://localhost:4200)
 
+### Proxy all AJAX requests to a given address
+
+```
+$ ember server --proxy http://<ADDRESS>:<PORT>
+
+$ ember server --proxy http://webby.locoroco.com:8080
+```
+
 ### Code Generators
 
 Make use of the many generators for code, try `ember help generate` for more details.
