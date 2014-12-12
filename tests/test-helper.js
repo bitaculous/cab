@@ -1,14 +1,22 @@
+/* globals require, mocha */
+
 import resolver from './helpers/resolver';
-import {
-  setResolver
-} from 'ember-qunit';
+import { setResolver } from 'ember-mocha';
 
 setResolver(resolver);
 
 document.write('<div id="ember-testing-container"><div id="ember-testing"></div></div>');
 
-QUnit.config.urlConfig.push({ id: 'nocontainer', label: 'Hide container'});
+$(document).ready(function(){
+  // Rename elements from `qunit` to `mocha`.
+  $('#qunit').attr('id', 'mocha');
+  $('#qunit-fixture').attr('id', 'mocha-fixture');
 
-var containerVisibility = QUnit.urlParams.nocontainer ? 'hidden' : 'visible';
+  // Declare `expect` as a global here instead of as a var in individual tests.
+  // This avoids jshint warnings re: `Redefinition of 'expect'`.
+  window.expect = chai.expect;
 
-document.getElementById('ember-testing-container').style.visibility = containerVisibility;
+  require('ember-cli/test-loader')['default'].load();
+
+  mocha.run();
+});
