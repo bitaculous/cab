@@ -1,11 +1,12 @@
 /.sass-cache/
 /bower_components/
+/cab.sublime-workspace
 /connect.lock
 /coverage/*
 /dist/
+/doc/locoroco.md
 /libpeerconnection.log
 /node_modules/
 /npm-debug.log
 /testem.log
 /tmp/
-/cab.sublime-workspace
