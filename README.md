@@ -91,14 +91,14 @@ $ ember generate <NAME> <OPTIONS>
 Running Tests
 -------------
 
-* `ember test`
-* `ember test --server`
+* `$ ember test`
+* `$ ember test --server`
 
 Building
 --------
 
-* `ember build` (development)
-* `ember build --environment production` (production)
+* `$ ember build` (development)
+* `$ ember build --environment production` (production)
 
 Further Reading / Useful Links
 ------------------------------
