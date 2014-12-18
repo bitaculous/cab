@@ -148,7 +148,7 @@ License
 
 Cab is released under the [MIT License (MIT)], see [LICENSE].
 
-[Akita Shinkansen E6 Super Komachi / スーパーこまち by Jun Seita]: https://farm9.staticflickr.com/8545/8606149970_78b737582b_z.jpg "Akita Shinkansen E6 Super Komachi / スーパーこまち by Jun Seita"
+[Akita Shinkansen E6 Super Komachi / スーパーこまち by Jun Seita]: https://farm1.staticflickr.com/8545/8606149970_78b737582b.jpg "Akita Shinkansen E6 Super Komachi / スーパーこまち by Jun Seita"
 [Cab]: https://github.com/bitaculous/cab "The user interface of LocomotiveCMS, written in Ember.js with Ember CLI."
 [Ember CLI]: http://www.ember-cli.com "A command line utility for creating ambitious web applications"
 [Ember CLI CoffeeScript]: https://github.com/kimroen/ember-cli-coffeescript "CoffeeScript support for Ember CLI"
