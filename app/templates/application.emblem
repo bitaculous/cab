@@ -1,6 +1,4 @@
 == partial 'application/header'
 
 main.dashboard role='main'
-  h1#title Welcome to the Cab
-
   == outlet
