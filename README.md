@@ -13,6 +13,8 @@
 Prerequisites
 -------------
 
+### [Node.js]
+
 1. Install [Node Version Manager]
 
 2. Add the local binaries folder (`./node_modules/.bin`) to your `$PATH` environment variable
@@ -23,30 +25,30 @@ Prerequisites
 
   For more information see [Using npm like Bundler].
 
-3. Install [Watchman]
+### [Watchman]
 
-  **Installing from source:**
+**Installing from source:**
 
-  ```
-  $ git clone https://github.com/facebook/watchman.git
-  $ cd watchman
-  $ ./autogen.sh
-  $ ./configure
-  $ make
-  $ sudo make install
-  ```
+```
+$ git clone https://github.com/facebook/watchman.git
+$ cd watchman
+$ ./autogen.sh
+$ ./configure
+$ make
+$ sudo make install
+```
 
-  **On OS X:**
+**On OS X:**
 
-  ```
-  $ brew install watchman
+```
+$ brew install watchman
 
-  or
+or
 
-  $ port install watchman
-  ```
+$ port install watchman
+```
 
-  For more information see [Watchman Installation].
+For more information see [Watchman Installation].
 
 Installation
 ------------
@@ -166,6 +168,7 @@ Cab is released under the [MIT License (MIT)], see [LICENSE].
 [LICENSE]: https://raw.githubusercontent.com/bitaculous/cab/master/LICENSE "License"
 [LocomotiveCMS]: http://locomotivecms.com "An open source CMS for Rails"
 [MIT License (MIT)]: http://opensource.org/licenses/MIT "The MIT License (MIT)"
+[Node.js]: http://nodejs.org "A platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications."
 [Node Version Manager]: https://github.com/creationix/nvm "Node Version Manager"
 [Photo]: https://www.flickr.com/photos/jseita/8606149970 "Photo"
 [Travis CI]: https://travis-ci.org/bitaculous/cab "Cab at Travis CI"
