@@ -6,9 +6,9 @@
 [![Travis CI Status][Travis CI Status]][Travis CI]
 [![Gemnasium Status][Gemnasium Status]][Gemnasium]
 
-![Akita Shinkansen E6 Super Komachi / スーパーこまち by Jun Seita]
+![Hayabusa is landing by Dennis Bacsa]
 
-*[Photo] by [Jun Seita]*
+*[Photo] by [Dennis Bacsa]*
 
 Prerequisites
 -------------
@@ -148,7 +148,8 @@ License
 
 Cab is released under the [MIT License (MIT)], see [LICENSE].
 
-[Akita Shinkansen E6 Super Komachi / スーパーこまち by Jun Seita]: https://farm1.staticflickr.com/8545/8606149970_78b737582b.jpg "Akita Shinkansen E6 Super Komachi / スーパーこまち by Jun Seita"
+[Dennis Bacsa]: https://www.flickr.com/photos/57215240@N02 "Dennis Bacsa, on Flickr"
+[Hayabusa is landing by Dennis Bacsa]: https://farm1.staticflickr.com/5476/11029295424_40a78ecf19.jpg "Hayabusa is landing by Dennis Bacsa"
 [Cab]: https://github.com/bitaculous/cab "The user interface of LocomotiveCMS, written in Ember.js with Ember CLI."
 [Ember CLI]: http://www.ember-cli.com "A command line utility for creating ambitious web applications"
 [Ember CLI CoffeeScript]: https://github.com/kimroen/ember-cli-coffeescript "CoffeeScript support for Ember CLI"
@@ -164,13 +165,12 @@ Cab is released under the [MIT License (MIT)], see [LICENSE].
 [here]: https://github.com/bitaculous/cab/issues "Github Issues"
 [http://localhost:4200]: http://localhost:4200
 [http://localhost:4200/tests]: http://localhost:4200/tests
-[Jun Seita]: https://www.flickr.com/photos/jseita "Jun Seita, on Flickr"
 [LICENSE]: https://raw.githubusercontent.com/bitaculous/cab/master/LICENSE "License"
 [LocomotiveCMS]: http://locomotivecms.com "An open source CMS for Rails"
 [MIT License (MIT)]: http://opensource.org/licenses/MIT "The MIT License (MIT)"
 [Node.js]: http://nodejs.org "A platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications."
 [Node Version Manager]: https://github.com/creationix/nvm "Node Version Manager"
-[Photo]: https://www.flickr.com/photos/jseita/8606149970 "Photo"
+[Photo]: https://www.flickr.com/photos/57215240@N02/11029295424 "Photo"
 [Travis CI]: https://travis-ci.org/bitaculous/cab "Cab at Travis CI"
 [Travis CI Status]: https://img.shields.io/travis/bitaculous/cab.svg?style=flat "Travis CI Status"
 [Using npm like Bundler]: http://nebulab.it/blog/using-npm-like-bundler "Using npm like Bundler"
