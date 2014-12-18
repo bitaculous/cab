@@ -6,6 +6,10 @@
 [![Travis CI Status][Travis CI Status]][Travis CI]
 [![Gemnasium Status][Gemnasium Status]][Gemnasium]
 
+![Akita Shinkansen E6 Super Komachi / スーパーこまち by Jun Seita]
+
+*[Photo] by [Jun Seita]*
+
 Prerequisites
 -------------
 
@@ -142,6 +146,7 @@ License
 
 Cab is released under the [MIT License (MIT)], see [LICENSE].
 
+[Akita Shinkansen E6 Super Komachi / スーパーこまち by Jun Seita]: https://farm9.staticflickr.com/8545/8606149970_78b737582b_z.jpg "Akita Shinkansen E6 Super Komachi / スーパーこまち by Jun Seita"
 [Cab]: https://github.com/bitaculous/cab "The user interface of LocomotiveCMS, written in Ember.js with Ember CLI."
 [Ember CLI]: http://www.ember-cli.com "A command line utility for creating ambitious web applications"
 [Ember CLI CoffeeScript]: https://github.com/kimroen/ember-cli-coffeescript "CoffeeScript support for Ember CLI"
@@ -157,10 +162,12 @@ Cab is released under the [MIT License (MIT)], see [LICENSE].
 [here]: https://github.com/bitaculous/cab/issues "Github Issues"
 [http://localhost:4200]: http://localhost:4200
 [http://localhost:4200/tests]: http://localhost:4200/tests
+[Jun Seita]: https://www.flickr.com/photos/jseita "Jun Seita, on Flickr"
 [LICENSE]: https://raw.githubusercontent.com/bitaculous/cab/master/LICENSE "License"
 [LocomotiveCMS]: http://locomotivecms.com "An open source CMS for Rails"
 [MIT License (MIT)]: http://opensource.org/licenses/MIT "The MIT License (MIT)"
 [Node Version Manager]: https://github.com/creationix/nvm "Node Version Manager"
+[Photo]: https://www.flickr.com/photos/jseita/8606149970 "Photo"
 [Travis CI]: https://travis-ci.org/bitaculous/cab "Cab at Travis CI"
 [Travis CI Status]: https://img.shields.io/travis/bitaculous/cab.svg?style=flat "Travis CI Status"
 [Using npm like Bundler]: http://nebulab.it/blog/using-npm-like-bundler "Using npm like Bundler"
