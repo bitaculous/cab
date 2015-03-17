@@ -10,10 +10,17 @@
 
 *[Photo] by [Dennis Bacsa]*
 
+
+Cab will **eventually** become the new UI for the LocomotiveCMS backoffice, written in [Ember.js]. Eventually in big
+letter, due to currently lack of time and the Locomotive team still has to decide if Ember.js is the right framework, you
+can find the discussion [here](https://gitter.im/locomotivecms/v3 "LocomotiveCMS V3 on Gitter").
+
+Personally we think Ember.js is a great framework, now we have to prove it and convince the team :smile:.
+
 Prerequisites
 -------------
 
-### [Node.js]
+### [Node.js] / [npm]
 
 1. Install [Node Version Manager]
 
@@ -24,6 +31,8 @@ Prerequisites
   ```
 
   For more information see [Using npm like Bundler].
+
+### [Ruby] / [Bundler]
 
 ### [Watchman]
 
@@ -68,7 +77,7 @@ Installation
 3. Install dependencies
 
   ```
-  $ npm install && bower install
+  $ npm install && bower install && bundle install
   ```
 
 Running / Development
@@ -148,6 +157,7 @@ License
 
 Cab is released under the [MIT License (MIT)], see [LICENSE].
 
+[Bundler]: http://bundler.io "The best way to manage a Ruby application's gems"
 [Dennis Bacsa]: https://www.flickr.com/photos/57215240@N02 "Dennis Bacsa, on Flickr"
 [Hayabusa is landing by Dennis Bacsa]: https://farm1.staticflickr.com/5476/11029295424_40a78ecf19.jpg "Hayabusa is landing by Dennis Bacsa"
 [Cab]: https://github.com/bitaculous/cab "The user interface of LocomotiveCMS, written in Ember.js with Ember CLI."
@@ -169,8 +179,10 @@ Cab is released under the [MIT License (MIT)], see [LICENSE].
 [LocomotiveCMS]: http://locomotivecms.com "An open source CMS for Rails"
 [MIT License (MIT)]: http://opensource.org/licenses/MIT "The MIT License (MIT)"
 [Node.js]: http://nodejs.org "A platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications."
-[Node Version Manager]: https://github.com/creationix/nvm "Node Version Manager"
+[Node Version Manager]: https://github.com/creationix/nvm "Node.js Version Manager"
+[npm]: https://www.npmjs.com "A package manager for Node.js"
 [Photo]: https://www.flickr.com/photos/57215240@N02/11029295424 "Photo"
+[Ruby]: https://www.ruby-lang.org "A dynamic, reflective, object-oriented, general-purpose programming language."
 [Travis CI]: https://travis-ci.org/bitaculous/cab "Cab at Travis CI"
 [Travis CI Status]: https://img.shields.io/travis/bitaculous/cab.svg?style=flat "Travis CI Status"
 [Using npm like Bundler]: http://nebulab.it/blog/using-npm-like-bundler "Using npm like Bundler"
