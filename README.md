@@ -15,7 +15,7 @@ Cab will **eventually** become the new UI for the LocomotiveCMS backoffice, writ
 letter, due to currently lack of time and the Locomotive team still has to decide if Ember.js is the right framework, you
 can find the discussion [here](https://gitter.im/locomotivecms/v3 "LocomotiveCMS V3 on Gitter").
 
-Personally we think Ember.js is a great framework, now we have to prove it and convince the team :smile:.
+Personally we think Ember.js is a great framework, now we have to prove it and convince the team.
 
 Prerequisites
 -------------
